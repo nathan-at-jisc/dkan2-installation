@@ -2,7 +2,7 @@
 
 This script takes out some of the hassle when installing DKAN2.
 
-To run the script do:
+To run the script:
 
 ```
 sudo chmod 777 dkan2-installation.sh
